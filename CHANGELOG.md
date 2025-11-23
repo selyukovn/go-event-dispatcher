@@ -1,4 +1,12 @@
 
+## [0.2.0] - 2025-11-23
+
+### BREAKING CHANGES
+
+- Default `Dispatcher` implementation replaced with more simple `DispatcherImplGeneralFn`.
+
+---
+
 ## [0.1.0] - 2025-11-06
 
 ### FEATURES
